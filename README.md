@@ -5,6 +5,6 @@
 
 
 ### 图片展示
-![image text](https://github.com/quanyouhua/JSP_MVC_StudentGradeManager/blob/master/images/login.png"DBSCAN Performance Comparison")
-![image text](https://github.com/quanyouhua/JSP_MVC_StudentGradeManager/blob/master/images/index.png"DBSCAN Performance Comparison")
-![image text](https://github.com/quanyouhua/JSP_MVC_StudentGradeManager/blob/master/images/infopage.png"DBSCAN Performance Comparison")
+![image text](https://github.com/quanyouhua/JSP_MVC_StudentGradeManager/blob/master/images/login.png "DBSCAN Performance Comparison")
+![image text](https://github.com/quanyouhua/JSP_MVC_StudentGradeManager/blob/master/images/index.png "DBSCAN Performance Comparison")
+![image text](https://github.com/quanyouhua/JSP_MVC_StudentGradeManager/blob/master/images/infopage.png "DBSCAN Performance Comparison")
